@@ -45,8 +45,9 @@ The emulators were trained on 499 ensemble members from JULES Wave 0 data, repre
     Overall Recommendation: GP or XGBoost depending on time constraints and emulator accuracy needs.
 
 🗂 Data
+[Link to paper/data](https://gmd.copernicus.org/articles/17/1059/2024/)
 
-    Source: JULES Wave 0 ensembles from McNeall et al. (2024): [Link to paper/data](https://gmd.copernicus.org/articles/17/1059/2024/)
+    Source: JULES Wave 0 ensembles from McNeall et al. (2024). 
 
     Inputs: 32 land surface parameters.
 
