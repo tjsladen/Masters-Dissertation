@@ -1,6 +1,9 @@
 # Emulating the Joint UK Land Environment Simulator (JULES)
 
 This project explores statistical emulation methods to replicate the output of the JULES land surface model using machine learning. Simulators like JULES are computationally expensive; emulators offer a faster, more efficient alternative to estimate system outputs based on input parameters.
+
+Available to view here: [Better emulators for JULES](https://github.com/tjsladen/Masters-Dissertation/blob/2ed3963600ba7d7401c1e0c7e50d67a28ee89055/Dissertation.pdf)
+
 📌 Project Summary
 
 The study compares three emulator methods:
